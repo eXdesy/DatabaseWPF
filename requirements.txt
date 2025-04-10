@@ -1,0 +1,2 @@
+MySql.Data==8.3.0
+System.Data.SqlClient==4.8.6
